@@ -1,1 +1,3 @@
 To learn lot more about aliens and there themes.
+To make our code run in server side. When our website makes a request to our server it going to execute the code and only deliver.
+The outcome back to the user.
